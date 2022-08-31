@@ -9,8 +9,8 @@ This is a web application that is aimmed to allow users to record their spending
   - There are two charts that allows users to view the portion of type of spending in the current month and the trend of spending for the last 7 days
   
  2. Receipt Page
-  - This a page that allows the users to upload their receipt
-  - Tesseract Open Source OCR Engine was used to recognised all the receipts
+  - This page allows the users to upload their receipt
+  - Tesseract Open Source OCR Engine was used to recognised all upload receipts
   - All receipts are compressed and pre-processed with filter (including sharpening and greyscale) before being analysed by the AI
   - The page will show all the receipt of the user and allow them to modify the detail of that spending in case of any error during the recognition by the AI
 
